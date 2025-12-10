@@ -184,7 +184,7 @@ export default function Portfolio() {
           <div className="mb-8 relative">
             <div className="w-32 h-32 sm:w-40 sm:h-40 mx-auto rounded-full bg-gradient-to-r from-purple-500 to-pink-500 p-1">
               <img 
-                src="/vikas_resume.jpg" 
+                src="vikas_resume.jpg" 
                 alt="Vikas Singh" 
                 className="w-full h-full rounded-full object-cover"
               />
