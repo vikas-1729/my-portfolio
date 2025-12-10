@@ -225,7 +225,7 @@ export default function Portfolio() {
           </h2>
           <div className="bg-slate-800/50 backdrop-blur-sm rounded-2xl p-6 sm:p-8 shadow-xl border border-purple-500/20">
             <p className="text-base sm:text-lg text-gray-300 leading-relaxed mb-6">
-              Senior Software Engineer with 33 months of experience at Dailyhunt (Verse Innovation), specializing in building high-performance systems, revenue optimization, and AI integration. Passionate about creating scalable solutions that drive business impact.
+              Senior Software Engineer with 5+ years of experience at Dailyhunt (Verse Innovation), specializing in high-performance systems, revenue optimization, and AI-driven solutions. Passionate about building scalable products that deliver measurable business impact.
             </p>
             <p className="text-base sm:text-lg text-gray-300 leading-relaxed mb-6">
               My expertise spans full-stack development, cloud infrastructure, and machine learning pipelines. I've successfully improved system performance by 20%, reduced operational costs through infrastructure optimization, and increased user engagement by 18% through innovative features.
